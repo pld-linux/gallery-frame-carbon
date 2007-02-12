@@ -1,6 +1,6 @@
 %define		_frame		carbon
 Summary:	Carbon Frame for Gallery2
-Summary(pl.UTF-8):   Ramki Carbon dla Gallery2
+Summary(pl.UTF-8):	Ramki Carbon dla Gallery2
 Name:		gallery-frame-%{_frame}
 Version:	1.0.0
 Release:	0.1
