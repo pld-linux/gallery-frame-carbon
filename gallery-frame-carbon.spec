@@ -1,6 +1,6 @@
 %define		_frame		carbon
 Summary:	Carbon Frame for Gallery2
-Summary(pl):	Ramki Carbon dla Gallery2
+Summary(pl.UTF-8):   Ramki Carbon dla Gallery2
 Name:		gallery-frame-%{_frame}
 Version:	1.0.0
 Release:	0.1
@@ -25,10 +25,10 @@ I created this image frame for Carbon theme and it is based on Shadow
 image frame. If the colors are suitable it can be used for other
 themes as well.
 
-%description -l pl
-Te ramki zosta³y stworzone dla motywu Carbon i s± oparte na ramkach
-Shadow. Mog± byæ u¿ywane tak¿e dla innych motywów, o ile kolory
-pasuj±.
+%description -l pl.UTF-8
+Te ramki zostaÅ‚y stworzone dla motywu Carbon i sÄ… oparte na ramkach
+Shadow. MogÄ… byÄ‡ uÅ¼ywane takÅ¼e dla innych motywÃ³w, o ile kolory
+pasujÄ….
 
 %prep
 %setup -q -n modules
